@@ -1,4 +1,4 @@
-# Wet Lab Resources
+# Wet Lab Resources for Molecular Biologists
 
 *Last updated August 2023.*
 
