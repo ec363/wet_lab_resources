@@ -1,0 +1,9 @@
+# system files
+.DS_Store
+.Rhistory
+
+# knitted R markdown files
+*.html
+
+# folders with archived or test files
+z_*/
